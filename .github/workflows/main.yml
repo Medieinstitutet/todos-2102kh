@@ -48,4 +48,8 @@ jobs:
           path: "./dist"
       - name: Deploy to GitHub Pages
         id: deployment
+<<<<<<< HEAD
         uses: actions/deploy-pages@v2
+=======
+        uses: actions/deploy-pages@v2
+>>>>>>> 729600cb1b83eb80d9e6b59eb29cff624f2e3d35
